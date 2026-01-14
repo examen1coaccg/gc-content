@@ -14,6 +14,8 @@ Las contribuciones de mejora o corrección de errores puedes mandarlas por vía 
 4. Envía un PR con la información detallada de tu propuesta
 
 **Sugerencias**
-Sigue las buens prácticas para la realización de los commits: [https://midu.dev/buenas-practicas-escribir-commits-git/](https://midu.dev/buenas-practicas-escribir-commits-git/)
+Sigue las buenas prácticas para la realización de los commits: [https://midu.dev/buenas-practicas-escribir-commits-git/](https://midu.dev/buenas-practicas-escribir-commits-git/)
+
+Al colaborar en este repositorio estás aceptando el [código de conducta] (/CODE_OF_CONDUCT.md) establecido.
 
 ¡Agradecemnos mucho tus contribuciones!
